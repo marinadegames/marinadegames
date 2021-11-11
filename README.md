@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning JavaScript and framework React ###
 ### 💞️ I really want to start working in IT ###
 ### 📫 How to reach me: ###
-#### Telegram: <t.me/eugenepash> ####
+#### Telegram: [eugenepash](https://t.me/eugenepash) ####
 #### Email: <eugenepash@gmail.com> ####
 #### Instagram: @marinadegames && @eugenepash ####
 
