@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eugene Pashkevich (`@marinadegames`) #
-* #### 👀 I’m interested in in web programming ####
-* #### 🌱 I’m currently learning JavaScript and framework React ####
-* #### 💞️ I really want to start working in IT  
+* ### 👀 I’m interested in in web programming ####
+* ### 🌱 I’m currently learning JavaScript and framework React ####
+* ### 💞️ I really want to start working in IT  
 
 ## 📈 My stats: ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula)](https://github.com/marinadegames/github-readme-stats)  
@@ -13,7 +13,7 @@
 ### 📫 How to reach me: ###
 `Telegram`: [eugenepash](https://t.me/eugenepash)  
 `Email`: <eugenepash@gmail.com> and <marinadegames@gmail.com>  
-`Instagram`: @marinadegames && @eugenepash  
+`Instagram`: [@eugenepash](https://instagram.com/eugenepash) && [@marinadegames](https://instagram.com/marinadegames)   
 
 ## Good luck for me!!! 😁 ##
 
