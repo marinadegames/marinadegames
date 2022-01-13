@@ -3,6 +3,7 @@
 * ### 🌱 I’m currently learning JavaScript and framework React ####
 * ### 💞️ I really want to start working in IT  
 
+
 ## 📈 My stats: ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula)](https://github.com/marinadegames/github-readme-stats)  
 ![marinadegames GitHub stats](https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula)  
