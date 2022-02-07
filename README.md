@@ -20,16 +20,6 @@
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 <img alt="MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="" src="" />
-<img alt="" src="" />
-<img alt="" src="" />
-=======
-# 👋 Hi, I’m Eugene Pashkevich (`@marinadegames`) #
-* ### 👀 I’m interested in in web programming ####
-* ### 🌱 I’m currently learning JavaScript and framework React ####
-* ### 💞️ I really want to start working in IT  
->>>>>>> origin/main
-
 
 ## 📈 My stats: ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula)](https://github.com/marinadegames/github-readme-stats)  
@@ -39,17 +29,14 @@
 ![alt rank](https://www.codewars.com/users/eugenepash/badges/large)
 
 ### 📫 How to reach me: ###
-<<<<<<< HEAD
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/eugenepash)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](eugenepash@gmail.com)
 [<img alt="inst" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eugenepash/)
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eugene-pashkevich-9582b122a)
 
-=======
 `Telegram`: [eugenepash](https://t.me/eugenepash)  
 `Email`: <eugenepash@gmail.com> and <marinadegames@gmail.com>  
-`Instagram`: [@eugenepash](https://instagram.com/eugenepash) && [@marinadegames](https://instagram.com/marinadegames)   
->>>>>>> origin/main
+`Instagram`: [@eugenepash](https://instagram.com/eugenepash) && [@marinadegames](https://instagram.com/marinadegames)
 
 ## Good luck for me!!! 😁 ##
 
