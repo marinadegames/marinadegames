@@ -1,7 +1,8 @@
-# 👋 Hi, I’m Eugene Pashkevich (`@marinadegames`) #  
-### 👀 I’m interested in in web programming ###
-### 🌱 I’m currently learning JavaScript ###  
-### 💞️ I like IT!  
+# 👋 Hi, I am Eugene Pashkevich
+## 🧑‍💻 I am <ins>frontend</ins> developer
+#### 👀 I’m interested in web programming ###
+#### 🧑‍💻 Learning java ###  
+#### 🖤 I like IT!  
 
 ## 🦾 My skills:  
 <div align="left">
@@ -26,16 +27,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula)](https://github.com/marinadegames/github-readme-stats)  
 ![marinadegames GitHub stats](https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula)  
 
+
 ## ⚔️ My CodeWars: ##
 ![alt rank](https://www.codewars.com/users/eugenepash/badges/large)
 
 ### 📫 How to reach me: ###
-<div align="left">
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/eugenepash)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](eugenepash@gmail.com)
 [<img alt="inst" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eugenepash/)
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eugene-pashkevich-9582b122a)
-</div>
+
 
 ## Good luck for me!!! 😁 ##
 
