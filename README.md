@@ -30,14 +30,12 @@
 ![alt rank](https://www.codewars.com/users/eugenepash/badges/large)
 
 ### 📫 How to reach me: ###
+<div align="left">
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/eugenepash)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](eugenepash@gmail.com)
 [<img alt="inst" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eugenepash/)
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eugene-pashkevich-9582b122a)
-
-`Telegram`: [eugenepash](https://t.me/eugenepash)  
-`Email`: <eugenepash@gmail.com> and <marinadegames@gmail.com>  
-`Instagram`: [@eugenepash](https://instagram.com/eugenepash) && [@marinadegames](https://instagram.com/marinadegames)
+</div>
 
 ## Good luck for me!!! 😁 ##
 
