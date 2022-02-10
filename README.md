@@ -1,8 +1,8 @@
 # 👋 Hi, I am Eugene Pashkevich
 ## 🧑‍💻 I am <ins>frontend</ins> developer
-#### 👀 I’m interested in web programming ###
-#### 🧑‍💻 Learning java ###  
-#### 🖤 I like IT!  
+### 👀 I’m interested in web programming ###
+### 🧑‍💻 Learning java ###  
+### 🖤 I like IT!  
 
 ## 🦾 My skills:  
 <div align="left">
