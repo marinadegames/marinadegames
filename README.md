@@ -1,7 +1,7 @@
 # 👋 Hi, I am Eugene Pashkevich
 ## 🧑‍💻 I am <ins>frontend</ins> developer
 ### 👀 I’m interested in web programming ###
-### 🧑‍💻 Learning java ###  
+### 🧑‍💻 Learning JavaScript, React and more ###  
 ### 🖤 I like IT!  
 
 ## 🦾 My skills:  
