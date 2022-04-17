@@ -1,5 +1,5 @@
 # 👋 Hi, I am Eugene Pashkevich. #
-## 🧑‍💻 <ins>Front-end</ins> developer #
+## 🧑‍💻 <ins>Frontend</ins> developer #
 ### 👀 I’m interested in web programming ###
 ### 🧑‍💻 I use **JavaScript**, **Typescript**, **React**, **Redux** and more ###  
 ### 🖤 I like IT!  
