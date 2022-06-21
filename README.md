@@ -1,14 +1,14 @@
 <div style="margin: 10px 0 10px 0;background-color: #ffffff; color: #2b2b2b; display: flex; justify-content: center; align-items: center; border-radius: 10px">
     <h1 style="margin: 0; padding: 12px 0">Welcome to my GitHub!</h1>
 </div>
-<div id="header" align="center" style="display: flex; flex-direction: row">
+<div id="header" style="display: flex; flex-direction: row">
     <div style="width: 70%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start">
         <h1 style="margin: 0;">👋 Hi, I am Eugene Pashkevich!</h1>
         <h2 style="margin: 0;">🧑‍💻 <ins>Frontend</ins> developer</h2>
             <small style="margin: 0; padding: 0">🙃 and some backend</small>
     </div>
     <div style="width: 30%; display: flex; justify-content: center; align-items: center">
-        <img alt="programmer" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="170"/>
+        <img alt="programmer" src="./assets/cat.gif" width="180"/>
     </div>
 </div>
 
@@ -48,7 +48,7 @@
     <img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
 </div>
 
-<div id="header" align="center" style="display: flex; flex-direction: row">
+<div id="header" style="display: flex; flex-direction: row">
     <div style="width: 70%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start">
         <h2 style="margin: 0 0 5px 0;">⚔️ My CodeWars:</h2>
         <img alt="codewars" src="https://www.codewars.com/users/eugenepash/badges/large">
@@ -61,6 +61,6 @@
         </div>
     </div>
     <div style="width: 30%; display: flex; justify-content: center; align-items: center">
-        <img src="https://c.tenor.com/IlCvc8FeFKYAAAAi/capoo-bugcat.gif" alt="cat">
+        <img src="./assets/cat2.gif" alt="cat2">
     </div>
 </div>
