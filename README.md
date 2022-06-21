@@ -1,16 +1,10 @@
-<div style="margin: 10px 0 10px 0;background-color: #ffffff; color: #2b2b2b; display: flex; justify-content: center; align-items: center; border-radius: 10px">
-    <h1 style="margin: 0; padding: 12px 0">Welcome to my GitHub!</h1>
-</div>
-<div id="header" style="display: flex; flex-direction: row">
-    <div style="width: 70%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start">
-        <h1 style="margin: 0;">👋 Hi, I am Eugene Pashkevich!</h1>
-        <h2 style="margin: 0;">🧑‍💻 <ins>Frontend</ins> developer</h2>
-            <small style="margin: 0; padding: 0">🙃 and some backend</small>
-    </div>
-    <div style="width: 30%; display: flex; justify-content: center; align-items: center">
-        <img alt="programmer" src="./assets/cat.gif" width="180"/>
-    </div>
-</div>
+<img align="right" alt="programmer" src="./assets/cat.gif" width="180"/>
+
+# 👋 Hi, I am Eugene Pashkevich!
+
+# 🧑‍💻 <ins>Frontend</ins> developer
+
+#### 🙃 and some backend
 
 ## 🦾 My skills:
 
@@ -38,29 +32,24 @@
 <img alt="WSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-
 </div>
 
 ## 📈 My stats: ##
 
-<div style="margin: 0 0 20px 0">
-    <img style="height: 200px" alt="lng" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
-    <img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
-</div>
+<img style="float: right" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
 
-<div id="header" style="display: flex; flex-direction: row">
-    <div style="width: 70%; display: flex; justify-content: flex-start; flex-direction: column; align-items: flex-start">
-        <h2 style="margin: 0 0 5px 0;">⚔️ My CodeWars:</h2>
-        <img alt="codewars" src="https://www.codewars.com/users/eugenepash/badges/large">
-        <h2 style="margin: 0 0 5px 0;">📫 How to reach me:</h2>
-        <div style="display: flex; flex-direction: row">
-            <img style="margin: 0 5px 0 0" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-            <img style="margin: 0 5px 0 0" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-            <img style="margin: 0 5px 0 0" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-            <img style="margin: 0 5px 0 0" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </div>
-    </div>
-    <div style="width: 30%; display: flex; justify-content: center; align-items: center">
-        <img src="./assets/cat2.gif" alt="cat2">
-    </div>
-</div>
+## ⚔️ My CodeWars: ## <img align="right" src="./assets/cat2.gif" alt="cat2">
+
+![alt rank](https://www.codewars.com/users/eugenepash/badges/large)
+
+### 📫 How to reach me: ###
+
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/eugenepash)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:eugenepash@gmail.com)
+[<img alt="inst" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eugenepash/)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eugene-pashkevich-9582b122a)
+
+
+
+
