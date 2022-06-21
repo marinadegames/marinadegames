@@ -1,8 +1,6 @@
 # 👋 Hi, I am Eugene Pashkevich. #
 ## 🧑‍💻 <ins>Frontend</ins> developer #
-### 👀 I’m interested in web programming ###
-### 🧑‍💻 I use **JavaScript**, **Typescript**, **React**, **Redux** and more ###  
-### 🖤 I like IT!  
+### 🧑‍💻 **JavaScript**, **Typescript**, **React**, **Redux**m **Nodejs** and more ###  
 
 ## 🦾 My skills:  
 <div align="left">
