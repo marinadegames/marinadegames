@@ -1,8 +1,8 @@
-<img align="right" alt="programmer" src="./assets/cat.gif" width="180"/>
+<img align="right" src="assets/cat.gif" alt="cat3" width="200"/>
 
-# 👋 Hi, I am Eugene Pashkevich!
+# 👋 Hi, I am Eugene Pashkevich! 
 
-# 🧑‍💻 <ins>Frontend</ins> developer
+# 🧑‍💻 <ins>Frontend</ins> developer 
 
 #### 🙃 and some backend
 
@@ -36,7 +36,7 @@
 
 ## 📈 My stats: ##
 
-<img style="float: right" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
+<img align="right" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
 
 ## ⚔️ My CodeWars: ## <img align="right" src="./assets/cat2.gif" alt="cat2">
