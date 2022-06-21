@@ -36,8 +36,8 @@
 
 ## 📈 My stats: ##
 
-<img align="right" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
+<img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
+<img style="height: 200px" alt="stats1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinadegames&layout=compact&theme=dracula"/>
 
 ## ⚔️ My CodeWars: ## <img align="right" src="./assets/cat2.gif" alt="cat2">
 
