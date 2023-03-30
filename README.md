@@ -36,7 +36,7 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   
 </div>
-
+<!-- 
 ## 📈 My stats: ##
 
 <img style="height: 200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=marinadegames&show_icons=true&theme=dracula"/>
@@ -45,7 +45,7 @@
 ## ⚔️ My CodeWars: ## <img align="right" src="./assets/cat2.gif" alt="cat2">
 
 ![alt rank](https://www.codewars.com/users/eugenepash/badges/large)
-
+ -->
 ### 📫 How to reach me: ###
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/eugenepash)
