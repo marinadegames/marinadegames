@@ -2,9 +2,7 @@
 
 # 👋 Hi, I am Eugene Pashkevich! 
 
-# 🧑‍💻 <ins>Frontend</ins> developer 
-
-#### 🙃 and some backend
+# 🧑‍💻 <ins>Frontend</ins> Game developer 
 
 ## 🦾 My experience:
 
