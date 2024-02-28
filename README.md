@@ -8,7 +8,6 @@
 
 <div align="left">
  <img alt="Phaser.js" src="https://img.shields.io/badge/Phaser.js-0078D6?style=for-the-badge&logo=javascript&logoColor=FDD851&color=279FAA&phaser.js"/>
-<img alt="Pixi.js" src="https://img.shields.io/badge/Pixi.js-0078D6?style=for-the-badge&logo=javascript&logoColor=c92ac7&color=279FAA&phaser.js"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
