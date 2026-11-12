@@ -1,6 +1,6 @@
 <img align="right" src="assets/cat.gif" alt="cat3" width="200"/>
 
-# 👋 Hi, I am Marinade! 
+# 👋 Hi, I am Eugene Pashkevich! 
 
 # 🧑‍💻 <ins>Frontend</ins> Game developer 
 
